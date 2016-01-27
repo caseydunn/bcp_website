@@ -94,6 +94,10 @@ p {
 
 .white {
     font-family: 'Open Sans', sans-serif;
+	color:  #FFF;
+}
+.dkgrey {
+    font-family: 'Open Sans', sans-serif;
 	color:  #3D3C3A;
 }
 
