@@ -563,6 +563,27 @@ p {
     display: block;  
 }
 
+/* Events Items */
+.events li {
+        width: 300px;
+        min-height: 250px;
+        border: 0px solid #000;
+        display: inline-block;
+        margin: 0px;
+}
+.events img { 
+    max-width: 300px; 
+    max-height: 250px; 
+    display: block;  
+}
+
+#events {
+	background-color: #F5EDE3;
+	padding-top: 60px;
+	padding-bottom: 80px;
+}
+
+
 /* #Pricing */
 
 #price {
